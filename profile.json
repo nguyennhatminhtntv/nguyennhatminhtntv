@@ -1,1 +1,15 @@
-
+root@nguyennhatminhtntv:~$ cat config/profile.json
+{
+  "identity": "Nguyễn Nhật Minh",
+  "role": ["Tech Executive", "Automation Engineer"],
+  "base_of_operations": "Tra Vinh, Vietnam",
+  "flagship_empire": {
+    "name": "MiVi Home",
+    "url": "[https://mivihome.vn](https://mivihome.vn)",
+    "mission": "Touchless Staycation & Automated Operations"
+  },
+  "contact_protocol": {
+    "email": "mivihome@gmail.com",
+    "phone": "0949.791.100"
+  }
+}
