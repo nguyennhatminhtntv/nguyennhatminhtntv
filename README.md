@@ -5,7 +5,6 @@
 
 <br/>
 
-```bash
 root@nguyennhatminhtntv:~$ whoami
 Nguyễn Nhật Minh
 Founder & System Automation Architect @ MiVi Home
